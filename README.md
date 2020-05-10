@@ -10,3 +10,7 @@ This version has not been tested too much. There may be (should be) bugs in it. 
 2020/3/18 3:43
 
 文件上传下载的问题已修复，未发现其他Bug
+
+2020/5/10 13:26
+
+更新，添加权限系统，增加多个指令
