@@ -14,3 +14,11 @@ This version has not been tested too much. There may be (should be) bugs in it. 
 2020/5/10 13:26
 
 更新，添加权限系统，增加多个指令
+
+预告：ChatServer-Async Client将出现三个分支：
+
+1:Standard版      支持基本聊天功能，不提供上传功能
+
+2.Enhance版       在前版的基础上，增加上传功能
+
+3.Deluxe版        在Enhance版的基础上，增加语音聊天功能（即将添加）与未来计划添加的视频会议功能
