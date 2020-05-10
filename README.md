@@ -19,6 +19,8 @@ This version has not been tested too much. There may be (should be) bugs in it. 
 
 1:Standard版      支持基本聊天功能，不提供上传功能
 
-2.Enhance版       在前版的基础上，增加上传功能
+2.Enhance版（需要"激活"）       在前版的基础上，增加上传功能
 
-3.Deluxe版        在Enhance版的基础上，增加语音聊天功能（即将添加）与未来计划添加的视频会议功能
+3.Deluxe版（需要"激活"）        在Enhance版的基础上，增加语音聊天功能（即将添加）与未来计划添加的视频会议功能
+
+激活方法：连接服务器后输入服务器生成的激活码即可
